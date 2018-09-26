@@ -1,6 +1,5 @@
 import createError from 'http-errors';
 import express from 'express';
-// import expressValidator from 'express-validator';
 
 import routes from "./routes/index";
 

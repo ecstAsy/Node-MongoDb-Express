@@ -1,0 +1,4 @@
+/.idea/*
+/dist/*
+/node_models/*
+package-lock.json
